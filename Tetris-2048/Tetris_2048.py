@@ -10,7 +10,7 @@ from sound import *
 from gui_helper import *
 from tile import *
 from point import Point
-
+#ss
 
 ''' A 2048 Tetris game created by Ayhan Aysoy, Cem Baysal, and Recep Barkın Topcu'''
 # MAIN FUNCTION OF THE PROGRAM
