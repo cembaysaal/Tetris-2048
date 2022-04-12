@@ -83,3 +83,5 @@ class Tile:
       stddraw.setFontSize(Tile.font_size)
       self.change()
       stddraw.text(position.x, position.y, str(self.number))
+   def move(self, dx, dy):
+      self.position.translate(dx, dy)
